@@ -5,6 +5,8 @@ Extracted using [Advanced Developer Tools](https://steamcommunity.com/sharedfile
 
 ![image](https://github.com/user-attachments/assets/8f470cef-a7eb-45bc-bb3d-03f80c8ba085)
 
+The font used in the above image is [FiraCode](https://github.com/tonsky/FiraCode), if you were wondering.
+
 # How to Use
 1. Copy the `autoCompletion` folder to your NPP installation folder. (or you can skip it, it's not really that useful or necessary).
 2. Open Nodepad++, select `Language` from the menu bar and go to `User Defined Language -> Define your language`
